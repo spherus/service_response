@@ -3,12 +3,19 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
     <Version>1.0.1</Version>
     <Authors>Rostislav Rotaru</Authors>
     <Product>Spherus</Product>
     <Company />
     <Description>Strong Typed Service Response</Description>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageVersion>0.1</PackageVersion>
+    <PackageIconUrl>http://static.spherus.net/spherusnugeticon.png</PackageIconUrl>
+    <PackageLicenseUrl>https://github.com/spherus/service_response/blob/master/LICENSE</PackageLicenseUrl>
+    <Owners>Rostislav Rotaru</Owners>
+    <PackageProjectUrl>https://github.com/spherus/service_response</PackageProjectUrl>
+    <Summary>Strong Typed Service Response writtent in .net core 2.0</Summary>
+    <Title>Spherus.ServiceResponse</Title>
   </PropertyGroup>
 
 </Project>
