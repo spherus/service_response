@@ -2,7 +2,7 @@
 
 This repository contains a simple generic Service Response using .NET Standard.
 
-## How to use
+## How to use:
 
 ```csharp
 
@@ -27,9 +27,6 @@ ServiceResponse<string> HelloWorld()
 
 	return result;
 }
-<<<<<<< HEAD
-```
-=======
 
 
 //Nongeneric use
@@ -52,4 +49,3 @@ ServiceResponse HelloWorld()
 }
 
 ```
->>>>>>> fb8e7ce... Added nongeneric example
