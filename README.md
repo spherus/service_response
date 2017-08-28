@@ -6,8 +6,8 @@ This repository contains a simple generic Service Response using .NET Standard.
 
 [Link to the NuGet package](https://www.nuget.org/packages/Spherus.ServiceResponse/0.1.0)
 
-Package Manager: PM> Install-Package Spherus.ServiceResponse -Version 0.1.0 <br />
-.NET CLI: > dotnet add package Spherus.ServiceResponse --version 0.1.0
+**Package Manager: PM>** Install-Package Spherus.ServiceResponse -Version 0.1.0 <br />
+**.NET CLI: >** dotnet add package Spherus.ServiceResponse --version 0.1.0
 
 ## How to use:
 
