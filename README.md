@@ -4,8 +4,7 @@ This repository contains a simple generic Service Response using .NET Standard.
 
 ## How to use
 
-```
-csharp
+```csharp
 
 
 //Generic use
