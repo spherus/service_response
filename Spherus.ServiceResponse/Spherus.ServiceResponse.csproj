@@ -3,14 +3,14 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <Authors>Rostislav Rotaru</Authors>
     <Product>Spherus</Product>
     <Company />
     <Description>Strong Typed Service Response</Description>
     <PackOnBuild>true</PackOnBuild>
-    <PackageVersion>1.0.2</PackageVersion>
-    <PackageIconUrl>https://github.com/spherus/static/blob/master/spherusnugeticon.png</PackageIconUrl>
+    <PackageVersion>1.0.3</PackageVersion>
+    <PackageIconUrl>https://raw.githubusercontent.com/spherus/static/master/spherusnugeticon.png</PackageIconUrl>
     <PackageLicenseUrl>https://github.com/spherus/service_response/blob/master/LICENSE</PackageLicenseUrl>
     <Owners>Rostislav Rotaru</Owners>
     <PackageProjectUrl>https://github.com/spherus/service_response</PackageProjectUrl>
@@ -19,6 +19,8 @@
     <PackageReleaseNotes>Placed NuGet icon to GitHub</PackageReleaseNotes>
     <RepositoryUrl>https://github.com/spherus/service_response</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
+    <AssemblyVersion>1.0.3.0</AssemblyVersion>
+    <FileVersion>1.0.3.0</FileVersion>
   </PropertyGroup>
 
 </Project>
