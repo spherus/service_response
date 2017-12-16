@@ -9,7 +9,7 @@
     <Company />
     <Description>Strong Typed Service Response</Description>
     <PackOnBuild>true</PackOnBuild>
-    <PackageVersion>0.1</PackageVersion>
+    <PackageVersion>1.0.2</PackageVersion>
     <PackageIconUrl>https://github.com/spherus/static/blob/master/spherusnugeticon.png</PackageIconUrl>
     <PackageLicenseUrl>https://github.com/spherus/service_response/blob/master/LICENSE</PackageLicenseUrl>
     <Owners>Rostislav Rotaru</Owners>
@@ -17,6 +17,8 @@
     <Summary>Strong Typed Service Response writtent in .net core 2.0</Summary>
     <Title>Spherus.ServiceResponse</Title>
     <PackageReleaseNotes>Placed NuGet icon to GitHub</PackageReleaseNotes>
+    <RepositoryUrl>https://github.com/spherus/service_response</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
   </PropertyGroup>
 
 </Project>
