@@ -9,7 +9,7 @@ This repository contains a simple generic Service Response using .NET Standard.
 **Package Manager: PM>** Install-Package Spherus.ServiceResponse -Version 1.0.4 <br />
 **.NET CLI: >** dotnet add package Spherus.ServiceResponse --version 1.0.4
 
-## How to use:
+### How to use:
 
 ```csharp
 
