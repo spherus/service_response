@@ -3,26 +3,27 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>1.0.4</Version>
+    <Version>1.0.5</Version>
     <Authors>Rostislav Rotaru</Authors>
     <Product>Spherus</Product>
     <Company />
     <Description>Strong Typed Service Response</Description>
     <PackOnBuild>true</PackOnBuild>
-    <PackageVersion>1.0.4</PackageVersion>
+    <PackageVersion>1.0.5</PackageVersion>
     <PackageIconUrl>https://raw.githubusercontent.com/spherus/static/master/spherusnugeticon.png</PackageIconUrl>
     <PackageLicenseUrl>https://github.com/spherus/service_response/blob/master/LICENSE</PackageLicenseUrl>
     <Owners>Rostislav Rotaru</Owners>
     <PackageProjectUrl>https://github.com/spherus/service_response</PackageProjectUrl>
     <Summary>Strong Typed Service Response writtent in .net core 2.0</Summary>
     <Title>Spherus.ServiceResponse</Title>
-    <PackageReleaseNotes>Placed NuGet icon to GitHub</PackageReleaseNotes>
+    <PackageReleaseNotes>Added IServiceResponse interface</PackageReleaseNotes>
     <RepositoryUrl>https://github.com/spherus/service_response</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
-    <AssemblyVersion>1.0.4.0</AssemblyVersion>
-    <FileVersion>1.0.4.0</FileVersion>
+    <AssemblyVersion>1.0.5.0</AssemblyVersion>
+    <FileVersion>1.0.5.0</FileVersion>
     <PackageTags>spherus serviceresponse .net standard 2.0 service response</PackageTags>
     <Copyright>Spherus INC</Copyright>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
 </Project>
