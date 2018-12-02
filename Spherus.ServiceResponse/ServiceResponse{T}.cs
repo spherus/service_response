@@ -1,6 +1,8 @@
-﻿namespace Spherus
+﻿using Spherus;
+
+namespace Spherus
 {
-    public class ServiceResponse<T>
+    public class ServiceResponse<T>: IServiceResponse
     {
         public ServiceResponse()
         {

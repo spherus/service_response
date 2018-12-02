@@ -1,6 +1,6 @@
 ﻿namespace Spherus
 {
-    public class ServiceResponse
+    public class ServiceResponse: IServiceResponse
     {
         public ServiceResponse()
         {
