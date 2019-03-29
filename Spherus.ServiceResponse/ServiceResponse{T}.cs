@@ -1,6 +1,4 @@
-﻿using Spherus;
-
-namespace Spherus
+﻿namespace Spherus
 {
     public class ServiceResponse<T>: IServiceResponse
     {
@@ -9,8 +7,8 @@ namespace Spherus
             Status = new ServiceStatus();
         }
 
-        public T ObjectResult { get; set; }
-
         public ServiceStatus Status { get; set; }
+
+        public T Result { get; set; }
     }
 }
