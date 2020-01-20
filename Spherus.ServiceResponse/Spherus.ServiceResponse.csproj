@@ -9,8 +9,7 @@
     <Company />
     <Description>Strong Typed Service Response</Description>
     <PackOnBuild>true</PackOnBuild>
-    <PackageVersion>1.0.6</PackageVersion>
-    <PackageIcon>https://raw.githubusercontent.com/spherus/static/master/spherusnugeticon.png</PackageIcon>
+    <PackageVersion>1.0.7</PackageVersion>
     <PackageLicenseUrl></PackageLicenseUrl>
     <Owners>Rostislav Rotaru</Owners>
     <PackageProjectUrl>https://github.com/spherus/service_response</PackageProjectUrl>
@@ -24,6 +23,21 @@
     <PackageTags>spherus serviceresponse .net standard 2.1 service response</PackageTags>
     <Copyright>Spherus INC</Copyright>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageIcon>NuGetIcon.png</PackageIcon>
+    <PackageIconUrl />
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\NuGetIcon.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
